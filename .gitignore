@@ -1,0 +1,4 @@
+.env
+spark_env/
+__pycache__/
+.vscode/
